@@ -2,4 +2,4 @@
 
 Hi guys.
 
-My name is Kyle. I'm 15 years old this year. I'm from Thailand. I go to an international school. I will be taking the International General Certificate of Secondary Education next year. I hope to become a lawyer. I plan to go study in the University of Oxford after I graduate from secondary school. I learn coding for fun. I'm just randomly saying things here so that space gets filled up.
+This is my first repository. I'm learning Biology so I get that messed up together with respiration. The respiratory system is beautiful. Combined with the circultory system, it allows our human body to function per normal and it is just a wonder to see. However, the novel Coronavirus attacks the respiratory system by damaging the alveolus, preventing oxygen from diffusing into the erythrocytes and causing these systems to malfunction. The government has placed us on lockdown, so that the virus can be stopped. I hope everyone follows that.
