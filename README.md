@@ -15,7 +15,11 @@ GitHub uses _markdown_, and **I can't believe it!!** Markdown is ~~trash~~ a cle
 ##### Header 5
 
 *italic*
+
 _still italic_
+
 __where is underline__
+
 **this is bold**
+
 ~~smh still no underline~~
