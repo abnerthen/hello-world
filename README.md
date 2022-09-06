@@ -27,3 +27,7 @@ __where is underline__
 ***why***
 
 <u>(Updated 6th September 2022) Ah yes finally found underline!</u>
+
+Funny that < u > doesn't work
+
+<ins>What about this?</ins>
